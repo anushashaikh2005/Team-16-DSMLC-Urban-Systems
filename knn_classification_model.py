@@ -100,9 +100,22 @@ if __name__ == "__main__":
     #Training knn for different predictors and then passing in new examples
     import numpy as np
     import pandas as pd
+    import os
 
     #read sample user input
-    sample_df = pd.read_csv("sample_data.csv")
+    filename = input("Enter file path: ")
+    sample_df = pd.read_csv(filename)
+
+    sample_df.rename(columns={'What do you think is the most important issue that needs to be addressed your community?': 'Issue', 
+                            'How many people live in your household?': 'Household members', 
+                            'How many dependents live with you?': '# of minors',
+                            'How old are you (please enter a number)?': 'How old are you?',
+                            'How long has the issue chosen earlier been persisting (please enter the number of months)?': 'Duration of Issue (in months)',
+                            'Has the issue been resolved yet?':'Has this issue been adressed before? Yes/No',
+                            'What is your residence type?': 'Type of House',
+                            'What is your Canadian Status?': 'Canadian Status',
+                            'Are you living alone?':'Are you living alone?'}, inplace=True)
+
     dict_ammenties = {"Amenities Nearby (eg.parks)": 0, "Pot holes": 1, "Icy Roads": 2, "Recreational Amenities": 3, "Drainage": 4, "Theft": 5, 
                     "Animal Control (eg. dogs peeing on lawns) ": 6, "Garbage Disposal": 7, "Homeless Nearby": 8, "Hailstorms": 9, "Bus stops / Transportation": 10,
                     "Construction": 11,
@@ -140,7 +153,7 @@ if __name__ == "__main__":
         categorized[col_list[1]] = new_tmp_df_list_predicted_classes[i][col_list[1]]
 
     #Append remaining coloumns that did not need to be classified
-    for i in range(5, len(col_name)):
+    for i in range(5, len(col_name)-1):
         categorized[col_name[i]] = sample_df[col_name[i]]
 
     #Revert the issues back to their names not numbers
@@ -151,6 +164,11 @@ if __name__ == "__main__":
     #update the rows in the dictionary
     categorized["Issue"] = categorized["Issue"].replace(dict_ammenties_reverse)
     #Write into CSV File
-    categorized.to_csv("categorized_data.csv")
+    csv_file = "categorized_data.csv"
+    if os.path.exists(csv_file) and os.path.getsize(csv_file) > 0:
+        categorized.to_csv(csv_file, mode='a', header=False, index=False)
+    else:
+        # Write the data with header if the file doesn't exist or is empty
+        categorized.to_csv(csv_file, mode='w', header=True, index=False)
 
 
