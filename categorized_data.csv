@@ -1,0 +1,101 @@
+,Issue,Priority,Household members,family_size,# of minors,Dependents,How old are you?,age_range,Duration of Issue (in months),issue_duration,Has this issue been adressed before? Yes/No,Type of House,Canadian Status,Are you living alone?
+0,Recreational Amenities,Low,1,small,0,No,26,Young Adult,11,Long Term,No,House,citizen,Yes
+1,Garbage Disposal,High,7,large,4,Yes,53,Adult,6,Medium Term,Yes,Apartment,citizen,No
+2,Recreational Amenities,Low,4,medium,0,No,34,Adult,5,Medium Term,Yes,Apartment,citizen,No
+3,Recreational Amenities,Low,3,small,0,No,56,Adult,3,Short Term,No,Condo,work permit,No
+4,Theft,High,3,small,2,Yes,66,Seniors,6,Medium Term,Yes,House,permanent resident,No
+5,Construction,Moderate,8,large,1,Yes,58,Adult,2,Short Term,No,Rental ,permanent resident,No
+6,Theft,High,1,small,0,No,25,Young Adult,11,Long Term,No,Condo,citizen,Yes
+7,Garbage Disposal,High,2,small,2,Yes,62,Seniors,5,Medium Term,Yes,Apartment,permanent resident,No
+8,Amenities Nearby (eg.parks),Moderate,3,small,1,Yes,62,Seniors,2,Short Term,Yes,House,citizen,No
+9,Hailstorms,High,1,small,0,No,19,Young Adult,8,Medium Term,No,House,permanent resident,Yes
+10,Icy Roads,Moderate,5,medium,5,Yes,46,Adult,11,Long Term,No,House,work permit,No
+11,Hailstorms,High,3,small,1,Yes,41,Adult,6,Medium Term,Yes,Apartment,citizen,No
+12,Amenities Nearby (eg.parks),Moderate,7,large,5,Yes,23,Young Adult,9,Long Term,No,Rental ,citizen,No
+13,Homeless Nearby,Moderate,4,medium,2,Yes,64,Seniors,5,Medium Term,Yes,Condo,citizen,No
+14,Amenities Nearby (eg.parks),Moderate,8,large,2,Yes,50,Adult,7,Medium Term,Yes,Condo,work permit,No
+15,Pot holes,Low,2,small,0,No,61,Seniors,8,Medium Term,No,Condo,work permit,No
+16,Homeless Nearby,Moderate,2,small,2,Yes,25,Young Adult,2,Short Term,No,Rental ,citizen,No
+17,Recreational Amenities,Low,1,small,0,No,32,Adult,9,Long Term,No,House,work permit,Yes
+18,Pot holes,Low,4,medium,4,Yes,49,Adult,8,Medium Term,Yes,Rental ,permanent resident,No
+19,Drainage,High,7,large,3,Yes,63,Seniors,7,Medium Term,No,Apartment,work permit,No
+20,Recreational Amenities,Low,5,medium,4,Yes,41,Adult,5,Medium Term,No,Apartment,permanent resident,No
+21,Construction,Moderate,2,small,0,No,51,Adult,11,Long Term,Yes,House,permanent resident,No
+22,Bus stops / Transportation,Moderate,5,medium,1,Yes,66,Seniors,10,Long Term,Yes,Rental ,citizen,No
+23,Theft,High,2,small,2,Yes,79,Seniors,6,Medium Term,Yes,House,work permit,No
+24,Construction,Moderate,8,large,4,Yes,70,Seniors,11,Long Term,No,Apartment,permanent resident,No
+25,Construction,Moderate,2,small,2,Yes,73,Seniors,6,Medium Term,Yes,House,work permit,No
+26,Garbage Disposal,High,5,medium,2,Yes,62,Seniors,5,Medium Term,No,House,permanent resident,No
+27,Construction,Moderate,1,small,1,Yes,46,Adult,1,Short Term,Yes,Apartment,work permit,Yes
+28,Recreational Amenities,Low,1,small,1,Yes,61,Seniors,6,Medium Term,Yes,Apartment,permanent resident,Yes
+29,Theft,High,7,large,4,Yes,63,Seniors,6,Medium Term,No,House,work permit,No
+30,Theft,High,1,small,1,Yes,18,Young Adult,2,Short Term,No,Condo,work permit,Yes
+31,Recreational Amenities,Low,8,large,2,Yes,45,Adult,4,Medium Term,Yes,Rental ,citizen,No
+32,Pot holes,Low,7,large,5,Yes,41,Adult,7,Medium Term,Yes,Rental ,work permit,No
+33,Theft,High,1,small,1,Yes,29,Young Adult,4,Medium Term,No,House,citizen,Yes
+34,Bus stops / Transportation,Moderate,3,small,0,No,71,Seniors,9,Long Term,No,House,work permit,No
+35,Homeless Nearby,Moderate,6,medium,3,Yes,27,Young Adult,5,Medium Term,Yes,Rental ,citizen,No
+36,Construction,Moderate,5,medium,0,No,59,Adult,2,Short Term,Yes,Condo,citizen,No
+37,Drainage,High,8,large,0,No,71,Seniors,5,Medium Term,No,House,permanent resident,No
+38,Construction,Moderate,5,medium,1,Yes,47,Adult,2,Short Term,No,Condo,permanent resident,No
+39,Hailstorms,High,8,large,0,No,53,Adult,9,Long Term,Yes,Rental ,permanent resident,No
+40,Garbage Disposal,High,4,medium,2,Yes,71,Seniors,2,Short Term,Yes,House,permanent resident,No
+41,Hailstorms,High,8,large,2,Yes,74,Seniors,5,Medium Term,Yes,Condo,permanent resident,No
+42,Garbage Disposal,High,7,large,5,Yes,70,Seniors,2,Short Term,No,Apartment,work permit,No
+43,Hailstorms,High,4,medium,1,Yes,45,Adult,11,Long Term,Yes,House,work permit,No
+44,Garbage Disposal,High,5,medium,0,No,33,Adult,1,Short Term,Yes,Condo,permanent resident,No
+45,Garbage Disposal,High,8,large,4,Yes,69,Seniors,6,Medium Term,No,Apartment,permanent resident,No
+46,Garbage Disposal,High,5,medium,3,Yes,52,Adult,6,Medium Term,No,Rental ,work permit,No
+47,Animal Control (eg. dogs peeing on lawns) ,Low,1,small,1,Yes,69,Seniors,8,Medium Term,Yes,Rental ,citizen,Yes
+48,Bus stops / Transportation,Moderate,1,small,0,No,62,Seniors,9,Long Term,No,Rental ,work permit,Yes
+49,Garbage Disposal,High,8,large,4,Yes,21,Young Adult,2,Short Term,Yes,Apartment,work permit,No
+50,Amenities Nearby (eg.parks),Moderate,4,medium,2,Yes,36,Adult,11,Long Term,Yes,Rental ,permanent resident,No
+51,Recreational Amenities,Low,8,large,5,Yes,32,Adult,2,Short Term,Yes,House,permanent resident,No
+52,Pot holes,Low,5,medium,2,Yes,69,Seniors,6,Medium Term,No,Condo,permanent resident,No
+53,Bus stops / Transportation,Moderate,5,medium,0,No,18,Young Adult,10,Long Term,Yes,House,work permit,No
+54,Theft,High,3,small,3,Yes,80,Seniors,2,Short Term,Yes,Rental ,permanent resident,No
+55,Theft,High,4,medium,4,Yes,37,Adult,1,Short Term,No,Condo,citizen,No
+56,Bus stops / Transportation,Moderate,6,medium,0,No,26,Young Adult,10,Long Term,No,Condo,citizen,No
+57,Amenities Nearby (eg.parks),Moderate,6,medium,2,Yes,30,Young Adult,2,Short Term,Yes,Rental ,work permit,No
+58,Drainage,High,7,large,2,Yes,71,Seniors,7,Medium Term,No,Rental ,permanent resident,No
+59,Drainage,High,5,medium,5,Yes,41,Adult,6,Medium Term,No,Apartment,permanent resident,No
+60,Amenities Nearby (eg.parks),Moderate,5,medium,2,Yes,60,Adult,5,Medium Term,Yes,House,citizen,No
+61,Drainage,High,3,small,1,Yes,66,Seniors,10,Long Term,No,Condo,work permit,No
+62,Recreational Amenities,Low,7,large,0,No,50,Adult,10,Long Term,Yes,Condo,work permit,No
+63,Icy Roads,Moderate,6,medium,4,Yes,52,Adult,3,Short Term,Yes,Condo,permanent resident,No
+64,Animal Control (eg. dogs peeing on lawns) ,Low,6,medium,3,Yes,18,Young Adult,2,Short Term,No,Condo,permanent resident,No
+65,Animal Control (eg. dogs peeing on lawns) ,Low,8,large,0,No,37,Adult,5,Medium Term,No,House,permanent resident,No
+66,Icy Roads,Moderate,4,medium,0,No,22,Young Adult,10,Long Term,No,Rental ,citizen,No
+67,Hailstorms,High,7,large,5,Yes,20,Young Adult,6,Medium Term,Yes,Rental ,citizen,No
+68,Bus stops / Transportation,Moderate,8,large,2,Yes,66,Seniors,9,Long Term,Yes,Condo,permanent resident,No
+69,Animal Control (eg. dogs peeing on lawns) ,Low,3,small,2,Yes,23,Young Adult,9,Long Term,Yes,House,work permit,No
+70,Homeless Nearby,Moderate,4,medium,1,Yes,57,Adult,7,Medium Term,Yes,Apartment,citizen,No
+71,Amenities Nearby (eg.parks),Moderate,3,small,1,Yes,50,Adult,10,Long Term,Yes,Rental ,citizen,No
+72,Animal Control (eg. dogs peeing on lawns) ,Low,7,large,5,Yes,34,Adult,5,Medium Term,Yes,Apartment,permanent resident,No
+73,Amenities Nearby (eg.parks),Moderate,2,small,2,Yes,75,Seniors,5,Medium Term,Yes,Rental ,citizen,No
+74,Drainage,High,6,medium,4,Yes,76,Seniors,5,Medium Term,Yes,House,permanent resident,No
+75,Pot holes,Low,5,medium,5,Yes,49,Adult,5,Medium Term,No,House,work permit,No
+76,Hailstorms,High,4,medium,2,Yes,38,Adult,5,Medium Term,Yes,Rental ,work permit,No
+77,Garbage Disposal,High,3,small,2,Yes,52,Adult,7,Medium Term,No,Apartment,citizen,No
+78,Animal Control (eg. dogs peeing on lawns) ,Low,4,medium,2,Yes,50,Adult,3,Short Term,No,Condo,permanent resident,No
+79,Garbage Disposal,High,3,small,3,Yes,62,Seniors,6,Medium Term,No,Apartment,work permit,No
+80,Amenities Nearby (eg.parks),Moderate,5,medium,2,Yes,33,Adult,11,Long Term,No,Apartment,permanent resident,No
+81,Recreational Amenities,Low,2,small,0,No,73,Seniors,11,Long Term,No,Condo,citizen,No
+82,Bus stops / Transportation,Moderate,8,large,0,No,57,Adult,1,Short Term,No,House,permanent resident,No
+83,Bus stops / Transportation,Moderate,3,small,1,Yes,66,Seniors,9,Long Term,No,Rental ,work permit,No
+84,Amenities Nearby (eg.parks),Moderate,1,small,0,No,59,Adult,6,Medium Term,Yes,House,permanent resident,Yes
+85,Homeless Nearby,Moderate,7,large,1,Yes,44,Adult,3,Short Term,Yes,Rental ,permanent resident,No
+86,Drainage,High,5,medium,0,No,34,Adult,7,Medium Term,Yes,House,permanent resident,No
+87,Pot holes,Low,8,large,2,Yes,77,Seniors,8,Medium Term,No,Rental ,citizen,No
+88,Bus stops / Transportation,Moderate,7,large,3,Yes,35,Adult,3,Short Term,Yes,Apartment,permanent resident,No
+89,Animal Control (eg. dogs peeing on lawns) ,Low,8,large,1,Yes,44,Adult,10,Long Term,No,Rental ,citizen,No
+90,Bus stops / Transportation,Moderate,8,large,0,No,78,Seniors,7,Medium Term,No,Rental ,work permit,No
+91,Construction,Moderate,5,medium,0,No,59,Adult,3,Short Term,No,Rental ,work permit,No
+92,Bus stops / Transportation,Moderate,4,medium,2,Yes,63,Seniors,5,Medium Term,Yes,House,work permit,No
+93,Garbage Disposal,High,7,large,3,Yes,76,Seniors,6,Medium Term,Yes,Apartment,permanent resident,No
+94,Hailstorms,High,4,medium,2,Yes,42,Adult,9,Long Term,No,Condo,work permit,No
+95,Construction,Moderate,3,small,3,Yes,74,Seniors,11,Long Term,Yes,Condo,permanent resident,No
+96,Bus stops / Transportation,Moderate,5,medium,2,Yes,58,Adult,11,Long Term,Yes,Condo,citizen,No
+97,Icy Roads,Moderate,5,medium,2,Yes,71,Seniors,10,Long Term,Yes,Apartment,permanent resident,No
+98,Drainage,High,2,small,0,No,64,Seniors,10,Long Term,No,Rental ,work permit,No
+99,Drainage,High,4,medium,1,Yes,64,Seniors,9,Long Term,No,House,citizen,No

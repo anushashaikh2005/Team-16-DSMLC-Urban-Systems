@@ -1,0 +1,101 @@
+﻿Timestamp,Issue,Household members,# of minors,How old are you?,Duration of Issue (in months),Has this issue been adressed before? Yes/No,Type of House,Canadian Status,Are you living alone?
+1,Recreational Amenities,1,0,26,11,No,House,citizen,Yes
+2,Garbage Disposal,7,4,53,6,Yes,Apartment,citizen,No
+2,Recreational Amenities,4,0,34,5,Yes,Apartment,citizen,No
+2,Recreational Amenities,3,0,56,3,No,Condo,work permit,No
+3,Theft,3,2,66,6,Yes,House,permanent resident,No
+4,Construction,8,1,58,2,No,Rental ,permanent resident,No
+3,Theft,1,0,25,11,No,Condo,citizen,Yes
+4,Garbage Disposal,2,2,62,5,Yes,Apartment,permanent resident,No
+4.392857143,Amenities Nearby (eg.parks),3,1,62,2,Yes,House,citizen,No
+4.785714286,Hailstorms,1,0,19,8,No,House,permanent resident,Yes
+5.178571429,Icy Roads,5,5,46,11,No,House,work permit,No
+5.571428571,Hailstorms,3,1,41,6,Yes,Apartment,citizen,No
+5.964285714,Amenities Nearby (eg.parks),7,5,23,9,No,Rental ,citizen,No
+6.357142857,Homeless Nearby,4,2,64,5,Yes,Condo,citizen,No
+6.75,Amenities Nearby (eg.parks),8,2,50,7,Yes,Condo,work permit,No
+7.142857143,Pot holes,2,0,61,8,No,Condo,work permit,No
+7.535714286,Homeless Nearby,2,2,25,2,No,Rental ,citizen,No
+7.928571429,Recreational Amenities,1,0,32,9,No,House,work permit,Yes
+8.321428571,Pot holes,4,4,49,8,Yes,Rental ,permanent resident,No
+8.714285714,Drainage,7,3,63,7,No,Apartment,work permit,No
+9.107142857,Recreational Amenities,5,4,41,5,No,Apartment,permanent resident,No
+9.5,Construction,2,0,51,11,Yes,House,permanent resident,No
+9.892857143,Bus stops / Transportation,5,1,66,10,Yes,Rental ,citizen,No
+10.28571429,Theft,2,2,79,6,Yes,House,work permit,No
+10.67857143,Construction,8,4,70,11,No,Apartment,permanent resident,No
+11.07142857,Construction,2,2,73,6,Yes,House,work permit,No
+11.46428571,Garbage Disposal,5,2,62,5,No,House,permanent resident,No
+11.85714286,Construction,1,1,46,1,Yes,Apartment,work permit,Yes
+12.25,Recreational Amenities,1,1,61,6,Yes,Apartment,permanent resident,Yes
+12.64285714,Theft,7,4,63,6,No,House,work permit,No
+13.03571429,Theft,1,1,18,2,No,Condo,work permit,Yes
+13.42857143,Recreational Amenities,8,2,45,4,Yes,Rental ,citizen,No
+13.82142857,Pot holes,7,5,41,7,Yes,Rental ,work permit,No
+14.21428571,Theft,1,1,29,4,No,House,citizen,Yes
+14.60714286,Bus stops / Transportation,3,0,71,9,No,House,work permit,No
+15,Homeless Nearby,6,3,27,5,Yes,Rental ,citizen,No
+15.39285714,Construction,5,0,59,2,Yes,Condo,citizen,No
+15.78571429,Drainage,8,0,71,5,No,House,permanent resident,No
+16.17857143,Construction,5,1,47,2,No,Condo,permanent resident,No
+16.57142857,Hailstorms,8,0,53,9,Yes,Rental ,permanent resident,No
+16.96428571,Garbage Disposal,4,2,71,2,Yes,House,permanent resident,No
+17.35714286,Hailstorms,8,2,74,5,Yes,Condo,permanent resident,No
+17.75,Garbage Disposal,7,5,70,2,No,Apartment,work permit,No
+18.14285714,Hailstorms,4,1,45,11,Yes,House,work permit,No
+18.53571429,Garbage Disposal,5,0,33,1,Yes,Condo,permanent resident,No
+18.92857143,Garbage Disposal,8,4,69,6,No,Apartment,permanent resident,No
+19.32142857,Garbage Disposal,5,3,52,6,No,Rental ,work permit,No
+19.71428571,Animal Control (eg. dogs peeing on lawns) ,1,1,69,8,Yes,Rental ,citizen,Yes
+20.10714286,Bus stops / Transportation,1,0,62,9,No,Rental ,work permit,Yes
+20.5,Garbage Disposal,8,4,21,2,Yes,Apartment,work permit,No
+20.89285714,Amenities Nearby (eg.parks),4,2,36,11,Yes,Rental ,permanent resident,No
+21.28571429,Recreational Amenities,8,5,32,2,Yes,House,permanent resident,No
+21.67857143,Pot holes,5,2,69,6,No,Condo,permanent resident,No
+22.07142857,Bus stops / Transportation,5,0,18,10,Yes,House,work permit,No
+22.46428571,Theft,3,3,80,2,Yes,Rental ,permanent resident,No
+22.85714286,Theft,4,4,37,1,No,Condo,citizen,No
+23.25,Bus stops / Transportation,6,0,26,10,No,Condo,citizen,No
+23.64285714,Amenities Nearby (eg.parks),6,2,30,2,Yes,Rental ,work permit,No
+24.03571429,Drainage,7,2,71,7,No,Rental ,permanent resident,No
+24.42857143,Drainage,5,5,41,6,No,Apartment,permanent resident,No
+24.82142857,Amenities Nearby (eg.parks),5,2,60,5,Yes,House,citizen,No
+25.21428571,Drainage,3,1,66,10,No,Condo,work permit,No
+25.60714286,Recreational Amenities,7,0,50,10,Yes,Condo,work permit,No
+26,Icy Roads,6,4,52,3,Yes,Condo,permanent resident,No
+26.39285714,Animal Control (eg. dogs peeing on lawns) ,6,3,18,2,No,Condo,permanent resident,No
+26.78571429,Animal Control (eg. dogs peeing on lawns) ,8,0,37,5,No,House,permanent resident,No
+27.17857143,Icy Roads,4,0,22,10,No,Rental ,citizen,No
+27.57142857,Hailstorms,7,5,20,6,Yes,Rental ,citizen,No
+27.96428571,Bus stops / Transportation,8,2,66,9,Yes,Condo,permanent resident,No
+28.35714286,Animal Control (eg. dogs peeing on lawns) ,3,2,23,9,Yes,House,work permit,No
+28.75,Homeless Nearby,4,1,57,7,Yes,Apartment,citizen,No
+29.14285714,Amenities Nearby (eg.parks),3,1,50,10,Yes,Rental ,citizen,No
+29.53571429,Animal Control (eg. dogs peeing on lawns) ,7,5,34,5,Yes,Apartment,permanent resident,No
+29.92857143,Amenities Nearby (eg.parks),2,2,75,5,Yes,Rental ,citizen,No
+30.32142857,Drainage,6,4,76,5,Yes,House,permanent resident,No
+30.71428571,Pot holes,5,5,49,5,No,House,work permit,No
+31.10714286,Hailstorms,4,2,38,5,Yes,Rental ,work permit,No
+31.5,Garbage Disposal,3,2,52,7,No,Apartment,citizen,No
+31.89285714,Animal Control (eg. dogs peeing on lawns) ,4,2,50,3,No,Condo,permanent resident,No
+32.28571429,Garbage Disposal,3,3,62,6,No,Apartment,work permit,No
+32.67857143,Amenities Nearby (eg.parks),5,2,33,11,No,Apartment,permanent resident,No
+33.07142857,Recreational Amenities,2,0,73,11,No,Condo,citizen,No
+33.46428571,Bus stops / Transportation,8,0,57,1,No,House,permanent resident,No
+33.85714286,Bus stops / Transportation,3,1,66,9,No,Rental ,work permit,No
+34.25,Amenities Nearby (eg.parks),1,0,59,6,Yes,House,permanent resident,Yes
+34.64285714,Homeless Nearby,7,1,44,3,Yes,Rental ,permanent resident,No
+35.03571429,Drainage,5,0,34,7,Yes,House,permanent resident,No
+35.42857143,Pot holes,8,2,77,8,No,Rental ,citizen,No
+35.82142857,Bus stops / Transportation,7,3,35,3,Yes,Apartment,permanent resident,No
+36.21428571,Animal Control (eg. dogs peeing on lawns) ,8,1,44,10,No,Rental ,citizen,No
+36.60714286,Bus stops / Transportation,8,0,78,7,No,Rental ,work permit,No
+37,Construction,5,0,59,3,No,Rental ,work permit,No
+37.39285714,Bus stops / Transportation,4,2,63,5,Yes,House,work permit,No
+37.78571429,Garbage Disposal,7,3,76,6,Yes,Apartment,permanent resident,No
+38.17857143,Hailstorms,4,2,42,9,No,Condo,work permit,No
+38.57142857,Construction,3,3,74,11,Yes,Condo,permanent resident,No
+38.96428571,Bus stops / Transportation,5,2,58,11,Yes,Condo,citizen,No
+39.35714286,Icy Roads,5,2,71,10,Yes,Apartment,permanent resident,No
+39.75,Drainage,2,0,64,10,No,Rental ,work permit,No
+40.14285714,Drainage,4,1,64,9,No,House,citizen,No
